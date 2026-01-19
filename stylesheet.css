@@ -1,0 +1,74 @@
+body {
+  background-color: black;
+  color: white;
+}
+.head {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid gray;
+  text-align: center;
+  border-radius: 30%;
+  -webkit-text-stroke: 2px rgb(255, 95, 47);
+  padding: 15px;
+}
+.sonng {
+  background-color: black;
+  color: yellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+audio {
+  width: 100%;
+  border: 3px solid rgb(144, 102, 102);
+  border-radius: 40px;
+  box-shadow: 10px -4px 20px red;
+}
+.heading2 {
+  background-color: rgb(93, 93, 130);
+  color: white;
+  border-left: 2px solid red;
+}
+.h {
+  background-color: blueviolet;
+  border-radius: 30px;
+  padding: 15px;
+}
+#tr {
+  background-color: yellowgreen;
+  border: 2px;
+}
+.trl {
+  background-color: red;
+  color: rgb(255, 255, 255);
+  border: 2px;
+
+  border-radius: 40px;
+  padding: auto;
+}
+img {
+  border: 2px;
+  border-radius: 40px;
+  box-shadow: 10px -4px 20px gray;
+}
+video {
+  border: 30px;
+  border-radius: 40px;
+  box-shadow: 10px -4px 20px gray;
+}
+.adi {
+  border: 30px;
+  border-radius: 40px;
+  box-shadow: 10px -4px 20px rgb(172, 106, 65);
+}
+strong {
+  background-color: rgb(5, 32, 81);
+  color: red;
+  border: 2px;
+  -webkit-text-stroke: 2px -2px 20px black;
+}
+pre {
+  background-color: black;
+  color: rgb(176, 164, 164);
+  border: 2px;
+  border-radius: 40px;
+  border-left: 3px solid red;
+}
